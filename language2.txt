@@ -1,0 +1,6 @@
+I want arc length where radius 10 and angle 180 
+I want kinetic energy where mass 10 and velocity 20 
+I want pressure where force 100 and area 50 
+I want density where mass 50 and volume 5 
+I want power where work 40 and time 10 
+I want speed where distance 40 and time 10 
